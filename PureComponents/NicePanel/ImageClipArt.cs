@@ -1,0 +1,48 @@
+namespace PureComponents.NicePanel
+{
+	/// <summary><P>Specifies the image clipart object being used by container, header and footer of a <see cref="T:PureComponents.NicePanel.NicePanel" /> control. </P></summary>
+	public enum ImageClipArt
+	{
+		None,
+		Applications,
+		Block,
+		Briefcase,
+		Calendar,
+		Camera,
+		Computer,
+		Contact,
+		Contact2,
+		ControlPanel,
+		Desktop,
+		Disc,
+		Fax,
+		Files,
+		Hand,
+		Help,
+		Charts,
+		Info,
+		Key,
+		Lock,
+		Login,
+		Mail,
+		Mail2,
+		Mime,
+		MusicCD,
+		Note,
+		Pencil,
+		Phone,
+		Phone2,
+		PowerOff,
+		Printer,
+		PureComponents,
+		RecycleBin,
+		Search,
+		Setup,
+		Star,
+		Star2,
+		Task,
+		Trash,
+		Users,
+		Users2
+	}
+}
